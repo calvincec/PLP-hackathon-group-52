@@ -15,7 +15,8 @@ Prints the results in this format
 Date: 2022-07-05
 Day: Tue
 Fare: 100
-Sales Tax Challenge – Task Two (Day 1)
+
+<h3>Sales Tax Challenge – Task Two (Day 1)</h3>
 A painting company has determined that for every 115 square feet of wall space, one
 gallon of paint and eight hours of labor will be required. The company charges $20.00
 per hour for labor. Write a program that asks the user to enter the square feet of wall
@@ -25,7 +26,9 @@ the following data:
 • The hours of labor required
 • The cost of the paint
 • The labor charges
-• The total cost of the paint jobPersonality test program - Task One (Day 2)
+• The total cost of the paint 
+
+<h3>jobPersonality test program - Task One (Day 2)</h3>
 1. Book Club Points Serendipity Booksellers has a book club that awards points to its
 customers based on the number of books purchased each month. The points are awarded
 as follows:
@@ -36,7 +39,7 @@ as follows:
 • If a customer purchases 4 or more books, he or she earns 60 points.
 Write a program that asks the user to enter the number of books that he or she has
 purchased this month and displays the number of points awarded
-Challenge - Task Two (Day 2)
+<h3>Challenge - Task Two (Day 2)</h3>
 2. Write a python program that takes user inputs and determines what career the user should
 learn.
 Requirements:
@@ -46,7 +49,8 @@ Requirements:
 ● Use conditional statements that determines the user selected choice.
 ● When a wrong input is entered the program should print out an error message.
 ● When all the questions are done the program should determine which career the user
-should venture in and program should terminate.Door lock system Challenge – Task One (Day 3)
+should venture in and program should terminate.
+<h3>Door lock system Challenge – Task One (Day 3)</h3>
 1. Write a python program that simulates a door lock system such that:
 ● Password is set and stored in a variable,
 ● Commands to instruct the door are stored in variables.
@@ -63,7 +67,7 @@ locked”
 displayed.
 ● When the door is locked or open, it prints out the last date/time the door was opened, eg
 “Door Last open at 2022-07-05 08:46:20.535395”
-Day 3: Challenge Task Two (Day 3)
+<h3>Day 3: Challenge Task Two (Day 3)</h3>
 2. Calories from Fat and Carbohydrates A nutritionist who works for a fitness club helps
 members by evaluating their diets. As part of her evaluation, she asks members for the
 number of fat grams and carbohydrate grams that they consumed in a day. Then, she
